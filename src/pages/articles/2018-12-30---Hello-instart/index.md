@@ -1,6 +1,6 @@
 ---
 title: Hello instart
-date: "2018-12-30T23:46:37.121Z"
+date: "2018-12-30T13:08:05.569Z"
 layout: post
 draft: false
 path: "/posts/hello-instart/"
@@ -23,7 +23,7 @@ Instart doesn't have fixed designs you can just buy. Instead I created design sy
 
 <img src="./screenshot.png">
 
-Think of the creation process as a way of co-creation. I provide tool to create and you can be part of the design flow by finding unique settings which pleases you.
+Think of the creation process as a way of co-creation. I provide the tools with the potential to produce great variety of artworks and you can be part of the design flow by finding unique settings which pleases you.
 
 ### What's coming on this blog?
 
