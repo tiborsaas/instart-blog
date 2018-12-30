@@ -3,7 +3,7 @@ import get from 'lodash/get'
 import { Link } from 'gatsby'
 import Menu from '../Menu'
 import Links from '../Links'
-import profilePic from '../../pages/photo.jpg'
+import profilePic from '../../pages/instart@2x.png'
 import './style.scss'
 
 class Sidebar extends React.Component {
@@ -24,8 +24,6 @@ class Sidebar extends React.Component {
           <img
             src={profilePic}
             className="sidebar__author-photo"
-            width="75"
-            height="75"
             alt={author.name}
           />
         </Link>
@@ -43,6 +41,7 @@ class Sidebar extends React.Component {
           </h2>
         )}
         <p className="sidebar__author-subtitle">{subtitle}</p>
+        <p className="sidebar__author-subtitle">Visit <a href="https://instart.design" rel="noopener noreferrer" target="_blank">https://instart.design</a></p>
       </div>
     )
     /* eslint-enable jsx-a11y/img-redundant-alt */

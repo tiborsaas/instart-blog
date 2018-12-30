@@ -3,10 +3,10 @@ const pxtorem = require('postcss-pxtorem')
 
 module.exports = {
   siteMetadata: {
-    url: 'https://lumen.netlify.com',
-    title: 'Blog by John Doe',
+    url: 'https://blog.instart.com',
+    title: 'Instart blog',
     subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+      'Instart is a generative art based t-shirt store.',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -15,7 +15,7 @@ module.exports = {
         path: '/',
       },
       {
-        label: 'About me',
+        label: 'About',
         path: '/about/',
       },
       {
@@ -24,13 +24,8 @@ module.exports = {
       },
     ],
     author: {
-      name: 'John Doe',
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vk: '#',
+      name: 'Instart blog',
+      email: 'tszasz@gmail.com',
     },
   },
   plugins: [
